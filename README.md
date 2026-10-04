@@ -4,7 +4,7 @@ A Power BI dashboard tracking NHS Referral-to-Treatment (RTT) 18-week performanc
 
 ## License
 
-© 2026 [Ashlesha]. All Rights Reserved.
+© 2026 Ashlesha. All Rights Reserved.
 
 This project is shared publicly for portfolio and demonstration purposes only.
 No part of this repository (code, data, documentation) may be copied, reused,
